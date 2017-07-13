@@ -1,0 +1,136 @@
+*{
+	margin: 0px;
+
+}
+
+
+/*body{ background-image: url(../img/MC.jpg); background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+position: relative; overflow-x: hidden;}
+
+
+body{
+  background-image: url("http://www.frontendfactory.es/wp-content/uploads/2015/07/safari.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
+*/
+
+ /*#FFF3E7#FFF3E7*/
+
+
+.barranav{ background:  #F15728; }
+
+#home{color: #FFFFFF}
+.sm{padding-top: 20px; }
+
+.menu{padding-top: 20px;}
+.submenu{list-style: none;}
+
+.subm{background: #577ECE; text-align: right; height: 25px;}
+#subm{color: #FFFFFF; font-size: 18px;}
+
+.headers{background: #577ECE; height: 25px; text-align: center;}
+#headers{color: #FFFFFF; font-size: 18px;}
+
+
+.m-t{ background: #577ECE; text-align: center; height: 20px;}
+#m-t{color: #FFFFFF;}
+
+
+.m-b{ background: #577ECE; text-align: right; height: 20px;}
+.m-b-s{ background: #577ECE; text-align: right; height: 34px; padding-top: 7px;}
+
+#m-b{color: #FFFFFF; }
+#m-b-s{color: #FFFFFF;}
+
+.img{ width: 100% height 100%; margin: auto; }
+
+
+
+
+
+
+#sidebar-wrapper {left: 100%; width: 0; margin-left: -100%; overflow-y: auto; overflow-x: hidden;}
+
+
+#wrapper.toggled #sidebar-wrapper { width: 88%;}
+
+
+#input{border-radius: 0px;}
+
+
+
+.modal-dialog {position: fixed; margin: 0; width: 80%; height: 100%; padding: 0; }
+
+.modal-content {position: absolute;top: 0;right: 0; bottom: 0; left: 0; border: 2px solid #3c7dcf; border-radius: 0;box-shadow: none; }
+
+.modal-header { position: absolute; top: 0; right: 0; left: 0; height: 60px; padding: 10px; background: #6598d9; border: 0; }
+
+.modal-title {font-weight: 300; font-size: 2em; color: #FFFFFF; line-height: 30px; }
+
+.modal-body {position: absolute; top: 50px; bottom: 60px; width: 100%; left: 0px; font-weight: 300; overflow: auto; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#ventana { margin-top: 40px; width: 100%; overflow: scroll; height: 95%;}
+
+
+::-webkit-scrollbar {
+      width: 8px;
+}
+
+
+::-webkit-scrollbar-track {
+      background: #F6F6F6;
+} 
+
+
+::-webkit-scrollbar-thumb {
+      background: #EFEDED;
+      border-radius: 50px;
+} 
+::-webkit-scrollbar-thumb:hover {
+      background: #B1B1B1;
+      border-radius: 50px;
+} 
+
+
+
+
+
+
+
+#datos{font-size: 18px;}
+
+
+
+
+
+.sidebar-nav li a {display: block; color: #1018B5; text-decoration: none; padding: 10px 5px 10px 5px; }
+
+.sidebar-nav li a:hover{color: #04259E; text-decoration: none; background: transparent;}
